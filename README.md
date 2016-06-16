@@ -34,6 +34,12 @@ ruby-lang.org, guides.rubyonrails.org
 * `1+2`   # this is same as `1.+(2)`
 
 #####Ruby Strings
+* Literal forms:
+* Anything surrounded with single quotes (') or double quotes(") as a string
+* Call the `.length` method on a string to return its length
+* String interpolation `#{}`
+* Any valid block of Ruby code you place inside `#{}` will be evaluated and inserted at that location.
+* A String literal created with single quotes does not support interpolation. 
 
 
 
