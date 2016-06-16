@@ -40,6 +40,8 @@ ruby-lang.org, guides.rubyonrails.org
 * String interpolation `#{}`
 * Any valid block of Ruby code you place inside `#{}` will be evaluated and inserted at that location.
 * A String literal created with single quotes does not support interpolation. 
+* Search in a string `.include? 'String'` `.start? 'String` `.end_with? "String"`
+* If a method is supposed to return true or false, we can end the method name with `?`
 
 
 
