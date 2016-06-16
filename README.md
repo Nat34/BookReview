@@ -37,11 +37,14 @@ ruby-lang.org, guides.rubyonrails.org
 * Literal forms:
 * Anything surrounded with single quotes (') or double quotes(") as a string
 * Call the `.length` method on a string to return its length
-* String interpolation `#{}`
+* *String interpolation* `#{}`
 * Any valid block of Ruby code you place inside `#{}` will be evaluated and inserted at that location.
 * A String literal created with single quotes does not support interpolation. 
-* Search in a string `.include? 'String'` `.start? 'String` `.end_with? "String"`
+* *Search* in a string `.include? 'String'` `.start? 'String` `.end_with? "String"`
 * If a method is supposed to return true or false, we can end the method name with `?`
+* *String case change* `.upcase` `.downcase` `.swapcase`
+* *String manipulation* `.split(' ')` Splits the string on space ' '. Responds an array.
+* *Concatenating Strings* `.concat` `+` `<<`
 
 
 
