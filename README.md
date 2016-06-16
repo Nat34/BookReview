@@ -46,7 +46,10 @@ ruby-lang.org, guides.rubyonrails.org
 * **String manipulation** `.split(' ')` Splits the string on space ' '. Responds an array.
 * **Concatenating Strings** `.concat` `+` `<<`
 * Use `<<` rather than `+` to save memory
-
+* **Replacing a substring** `.sub` `.gsub`
+* RegExs are a concise and flexible means for "matching" particular characters, words, or patterns of characters. 
+* Specify a RegEx by putting it between a pair of forward slashes (/)
+* `.gsub(/[A-Z]/,'0')` Replace all characters in capital case in the string with '0'
 
 
 
