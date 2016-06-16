@@ -4,7 +4,7 @@ Object-oriented interpreted scripting language: Ruby
 This repository contains practice files.  These files were created to develop and learn Rails web application framework running on the Ruby programming language.
 
 ## Project: 
-Create a simple blog (a Rails web application)
+Create a Rails web application)
 
 ## Drivers: 
 To learn the Ruby programming language and the Rails development framework.
