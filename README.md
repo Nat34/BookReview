@@ -44,7 +44,7 @@ ruby-lang.org, guides.rubyonrails.org
 * If a method is supposed to return true or false, we can end the method name with `?`
 * *String case change* `.upcase` `.downcase` `.swapcase`
 * *String manipulation* `.split(' ')` Splits the string on space ' '. Responds an array.
-* *Concatenating Strings* `.concat` `+` `<<`
+* **Concatenating Strings** `.concat` `+` `<<`
 
 
 
