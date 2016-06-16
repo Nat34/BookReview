@@ -17,3 +17,22 @@ ruby-lang.org, guides.rubyonrails.org
 
 ## Notes:
 
+#####Ruby Objects
+* Everything is an object
+* One always puts oneself in the place of an object and then has conversations with other objects, telling them to do stuff.
+* One object "calls or invokes the methods" of another object. 
+* Call a `method` on an `object` by placing a `.` after the object
+* Invoking a method on an object inevitably generates a response. This response is always another object.
+* One may also chain method invocations by simply adding more periods and method names sequentially
+
+#####Ruby Methods
+* Look up which methods an object provides by calling the `methods` method on it 
+* `.methods` `.methods.sort`
+* Invoke methods with arguments `.method(argument)`
+
+#####Ruby Strings
+
+
+
+
+
