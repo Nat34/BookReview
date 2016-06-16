@@ -29,6 +29,9 @@ ruby-lang.org, guides.rubyonrails.org
 * Look up which methods an object provides by calling the `methods` method on it 
 * `.methods` `.methods.sort`
 * Invoke methods with arguments `.method(argument)`
+* Special methods: `+   -   *   /   =   ==    !=    >   <   >=    <=    []`
+* You don't have to use a period to invole them on objects
+* `1+2`   # this is same as `1.+(2)`
 
 #####Ruby Strings
 
